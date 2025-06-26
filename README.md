@@ -1,5 +1,6 @@
 Machine Learning Projects – Internship Tasks
-📌 **Note**: This repository contains a collection of **machine learning projects** completed as part of my internship.
+
+📌 **Note**: This repository contains a collection of **machine learning projects** completed as part of my internship at TechNest Intern.
 
 The repository includes end-to-end notebooks covering tasks such as sentiment classification, time series forecasting, clustering, decision trees, recommendation systems, and image classification — each designed to apply core ML concepts on real-world datasets.
 
